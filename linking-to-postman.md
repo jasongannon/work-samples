@@ -65,14 +65,14 @@ From here, we see how to upload an OAS file into your public workspace to build 
 1. Select the collection you want to share and then select Share Collection.
 2. In the box, select **Via Run in Postman**. You can select either an HTML or Markdown snippet to embed in your website.
 
-![Import Collections](https://github.com/jasongannon/work-samples/blob/main/images/images/create-link.gif)
+![Create Link](https://github.com/jasongannon/work-samples/blob/main/images/images/create-link.gif)
 
 ### Edit the API documentation
 
 1. Locate the section in your API documentation where you want to link to your Postman collection.
 2. Paste the HTML or Markdown snippet into your documentation.
 
-![Import Collections](https://github.com/jasongannon/work-samples/blob/main/images/images/add-postman-link.gif)
+![Add Postman Link](https://github.com/jasongannon/work-samples/blob/main/images/add-postman-link.gif)
 
 After selecting **postman** the button, users can view, import, or fork the collection.
 
