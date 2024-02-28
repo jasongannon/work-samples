@@ -16,7 +16,8 @@ RulesEngine is open-source software built on C# and .NET, which enables the desi
 
 ### How it Works
 
-![Block Diagram](https://github.com/jasongannon/work-samples/blob/main/images/blockDiagram.png)
+![Block Diagram](https://github.com/jasongannon/work-samples/blob/main/images/BlockDiagram.png)
+
 The rules can be stored in any store and be fed to the system in a structure which adheres to the [schema of WorkFlow model](https://github.com/microsoft/RulesEngine/blob/main/schema/workflow-schema.json).
 
 A wrapper needs to be created over the Rules Engine package, which will get the rules and input message(s) from storage and put it into the Engine. The wrapper then handles the output using appropriate means.
