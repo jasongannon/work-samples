@@ -41,7 +41,7 @@ To create a new Public workspace:
 4. Select **Public**.
 5. Select **Create Workspace**.
 
-![Create Public Workspace](../images/create-public-workspace.gif)
+![Create Public Workspace](https://github.com/jasongannon/work-samples/blob/main/images/create-public-workspace.gif)
 
 ## Importing OAS Files into Collections in Postman
 
@@ -56,7 +56,7 @@ From here, we see how to upload an OAS file into your public workspace to build 
 3. To make sure Postman adds collections based on the OAS file, select **Show Import Settings** and make sure **Copy collections to workspace** is selected.
 4. Select **Import** to upload the files into Postman. You will see your collection in the Collections window.
 
-![Import Collections](../images/import-collections.gif)
+![Import Collections](https://github.com/jasongannon/work-samples/blob/main/images/import-collections.gif)
 
 ## Integrating Postman Collections with Your Documentation
 
@@ -65,14 +65,14 @@ From here, we see how to upload an OAS file into your public workspace to build 
 1. Select the collection you want to share and then select Share Collection.
 2. In the box, select **Via Run in Postman**. You can select either an HTML or Markdown snippet to embed in your website.
 
-![Import Collections](../images/create-link.gif)
+![Import Collections](https://github.com/jasongannon/work-samples/blob/main/images/images/create-link.gif)
 
 ### Edit the API documentation
 
 1. Locate the section in your API documentation where you want to link to your Postman collection.
 2. Paste the HTML or Markdown snippet into your documentation.
 
-![Import Collections](../images/add-postman-link.gif)
+![Import Collections](https://github.com/jasongannon/work-samples/blob/main/images/images/add-postman-link.gif)
 
 After selecting **postman** the button, users can view, import, or fork the collection.
 
