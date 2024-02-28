@@ -19,3 +19,4 @@ I welcome you to review some of my writing samples:
 
 - [Linking to Postman API Collections](https://github.com/jasongannon/work-samples/blob/main/linking-to-postman.md)
 - [Integrating with RuleEngine—a JSON-based solution for .NET Projects](https://github.com/jasongannon/work-samples/blob/main/rulesengine.md)
+- [Penetration Testing Compliance—Template Doc](https://github.com/jasongannon/work-samples/blob/main/pen-testing.md)
