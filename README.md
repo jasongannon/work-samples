@@ -1,7 +1,7 @@
 
 # Jason Gannon—Software Engineer and Technical Writer
 
-I welcome you to review my résumé and writing samples.
+Please have a look at my résumé and writing samples.
 
 ## Online résumé
 
