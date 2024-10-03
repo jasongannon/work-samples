@@ -1,5 +1,5 @@
 
-# Jason Gannon
+# Jason Gannon's Work Samples
 
 Please have a look at my résumé, projects, and writing samples.
 
