@@ -1,11 +1,7 @@
 
 # Jason Gannon's Work Samples
 
-Please have a look at my résumé, projects, and writing samples.
-
-## Online résumé
-
-[https://jasongannon.github.io/](https://jasongannon.github.io/)
+Please have a look at my projects, and writing samples.
 
 ## Work Samples:
 
