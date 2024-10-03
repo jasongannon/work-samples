@@ -1,5 +1,5 @@
 
-# Jason Gannon—Software Engineer and Technical Writer
+# Jason Gannon
 
 Please have a look at my résumé, projects, and writing samples.
 
