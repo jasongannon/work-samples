@@ -1,7 +1,7 @@
 
 # Jason Gannon's Work Samples
 
-Please have a look at my projects, and writing samples.
+Please have a look at my projects and writing samples.
 
 ## Work Samples:
 
