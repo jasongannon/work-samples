@@ -10,5 +10,4 @@ Please have a look at my projects and writing samples.
 - [Integrating with RuleEngine—a JSON-based solution for .NET Projects](https://github.com/jasongannon/work-samples/blob/main/rulesengine.md)
 - [Penetration Testing Compliance—Template Doc](https://github.com/jasongannon/work-samples/blob/main/pen-testing.md)
 - [Qualtrics-API Usage Report](https://api.qualtrics.com/i44e8ozanrjjw-api-usage-report)
-- [Pace Software—API Reference](https://developer.pacesoft.net/content/apis/)
 - [OpenAPI Linter—Web Application](https://github.com/jasongannon/open-api-linter)
